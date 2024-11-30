@@ -1,13 +1,10 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...) -->
 <h1 align="center">Hi 👋, I'm Swathi Amaravadi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVsazliNTR6aTVuZTRiM2wyNXUwanY2ZHU5MnN1aTBobTRvOHM1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp"/>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swathireddy369&label=Profile%20views&color=0e75b6&style=flat" alt="swathireddy369" /> </p>
-
-- 🔭 I’m currently working on **Food Ordering App**
-
-- 🌱 I’m currently learning **Reactjs,SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/basicportfolioswathi/overview](https://app.netlify.com/sites/basicportfolioswathi/overview)
 
@@ -27,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swathireddy369&show_icons=true&locale=en" alt="swathireddy369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swathireddy369&" alt="swathireddy369" /></p>
-
