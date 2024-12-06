@@ -1,4 +1,4 @@
-/* ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)*/ 
+
 <h1 align="center">Hi 👋, I'm Swathi Amaravadi</h1>
 
 <img align="right" alt="coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVsazliNTR6aTVuZTRiM2wyNXUwanY2ZHU5MnN1aTBobTRvOHM1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp"/>
