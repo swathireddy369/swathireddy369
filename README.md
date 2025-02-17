@@ -1,6 +1,3 @@
-Here’s your updated GitHub README with **Spring Boot** added under backend technologies:  
-
-```markdown
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=435&lines=Hello!+My+name+is+Swathi+Amaravadi;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
 <br />
 ##### MOTTO
@@ -50,6 +47,3 @@ Here’s your updated GitHub README with **Spring Boot** added under backend tec
 ### 📝 Version Control System
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-```
-
-Let me know if you need any other modifications! 🚀
