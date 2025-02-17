@@ -2,7 +2,7 @@
 <br />
 ##### MOTTO
 
-> One day at a time.
+> Brick by brick, greatness is built.
 > 
 <div align="center">
 
