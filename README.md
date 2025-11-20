@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello 👋, I'm Swathi Amaravadi</h1>
+  <h1>Hello 👋, I'm Swathi Kodakandla</h1>
 	<img src="https://raw.githubusercontent.com/swish369/swish369/main/assets/coding.gif" alt="Coding GIF" width="400">
 
   <p>
