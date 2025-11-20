@@ -13,7 +13,7 @@
 
 ### 🙋‍♀️ About Me
 
-- 🌐 Know more about me: **[Portfolio](https://portfolio-swathir.netlify.app/)**
+- 🌐 Know more about me: **[Portfolio](https://swathi-amaravadi-portfolio.netlify.app/)**
 - 👩‍🎓 Graduate Student, **University of Bridgeport**
 - 💼 Actively seeking **Full-Time Java Full-Stack / Backend Developer roles**
 - 💻 Practicing DSA daily: **[LeetCode Profile](https://leetcode.com/Swathi369/)**
