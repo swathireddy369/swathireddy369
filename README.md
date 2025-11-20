@@ -79,9 +79,9 @@
 
 ## 📫 Contact
 
-- 📧 Email: **swathiamaravadi53@gmail.com**
-- 🔗 LinkedIn: **https://linkedin.com/in/amaravadisw**
-- 🌐 Portfolio: **https://portfolio-swathir.netlify.app/**
+- 📧 Email: **swathik3693@gmail.com**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/swathireddy369/**
+- 🌐 Portfolio: **https://swathi-amaravadi-portfolio.netlify.app/**
 
 ---
 
