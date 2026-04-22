@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hello 👋, I'm Swathi Kodakandla</h1>
+  <h1>Hello 👋, I'm Swathi Amaravadi</h1>
 	<img src="https://raw.githubusercontent.com/swish369/swish369/main/assets/coding.gif" alt="Coding GIF" width="400">
 
   <p>
-    I'm a Java Full-Stack Developer with 5+ years of experience building scalable backend systems, 
+    I'm a Java Full-Stack Developer with 7+ years of experience building scalable backend systems, 
     microservices, and full-stack web applications. I love solving real problems through clean, 
     performant code and continuously learning new technologies.
   </p>
@@ -13,9 +13,8 @@
 
 ### 🙋‍♀️ About Me
 
-- 🌐 Know more about me: **[Portfolio](https://swathi-amaravadi-portfolio.netlify.app/)**
 - 👩‍🎓 Graduate Student, **University of Bridgeport**
-- 💼 Actively seeking **Full-Time Java Full-Stack / Backend Developer roles**
+- 💼 Actively seeking **Java Full-Stack Developer**
 - 💻 Practicing DSA daily: **[LeetCode Profile](https://leetcode.com/Swathi369/)**
 - ✍️ I love documenting my learning journey through blogs.
 
@@ -79,9 +78,8 @@
 
 ## 📫 Contact
 
-- 📧 Email: **swathik3693@gmail.com**
+- 📧 Email: **swathiamaravadhi369@gmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/swathireddy369/**
-- 🌐 Portfolio: **https://swathi-amaravadi-portfolio.netlify.app/**
 
 ---
 
